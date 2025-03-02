@@ -1,2 +1,2 @@
 # Trip-Booking
-A Trip Booking Project Built With React !!
+A Trip Booking Project Built With Full Stack !!
